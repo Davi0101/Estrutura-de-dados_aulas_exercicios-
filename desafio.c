@@ -91,7 +91,7 @@ int main()
       }
 
       printf("\n");
-//,ostrando a quantidade de palavras iguais encontradas
+//mostrando a quantidade de palavras iguais encontradas
         if (iguais != 0){
             
             printf("Achei %d palavras iguais a palavra: %s", iguais,palavra);
